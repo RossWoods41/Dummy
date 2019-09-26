@@ -973,3 +973,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.26-19.01.40:865][791]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Dummy/Saved/FirstPersonExampleMap32285322453CFD1F3746999AF65AE9D1.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Dummy/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.09.26-19.01.40:874][791]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.138
 [2019.09.26-19.02.27:250][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.07.05:578][481]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-19.07.07:731][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.09.26-19.07.07:737][737]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-19.07.07:761][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.09.26-19.07.07:989][737]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Dummy/Saved/FirstPersonExampleMap0033141D4F6D44128FAC87A5541D6730.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Dummy/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.09.26-19.07.07:997][737]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.256
